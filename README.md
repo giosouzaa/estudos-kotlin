@@ -1,1 +1,1 @@
-# estudos-kotlin
+Repositório para armazenamentos de estudos com Kotlin.
